@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <AssemblyName>SocketSkeleton</AssemblyName>
+        <RootNamespace>SocketSkeleton</RootNamespace>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+      <PackageReference Include="Fleck" Version="1.2.0" />
+    </ItemGroup>
+
+
+
+</Project>
